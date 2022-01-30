@@ -1,7 +1,7 @@
 # realstaq-houses
 Repository created for interview purposes
 
-##On your local machine, you should have installed:
+## On your local machine, you should have installed:
 - Java 8+
 - Gradle 6+
 
