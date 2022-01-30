@@ -1,0 +1,160 @@
+[
+  {
+    "id": "808f8ba4-7fde-48b1-9895-750d1898f7ad",
+    "mls_id": 499,
+    "mls_listing_id": "3556086",
+    "property_type": "single",
+    "formatted_address": "906 Bret Lane B, Austin, TX 78721",
+    "address": "906 Bret Lane B",
+    "zip": "78721",
+    "city": "Austin",
+    "state": "TX",
+    "location": [
+      -97.6887488,
+      30.2560245
+    ],
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "list_date": "2021-01-31T00:00:00-06:00",
+    "mls_update_date": "2021-01-31T00:00:00-06:00",
+    "price_display": "$329,900",
+    "price": 329000,
+    "square_feet": 720
+  },
+  {
+    "id": "4b06aeca-2977-4df1-9821-4efa40842e5f",
+    "mls_id": 499,
+    "mls_listing_id": "7079453",
+    "property_type": "single",
+    "formatted_address": "9003 Bancroft Trail, Austin, TX 78729",
+    "address": "9003 Bancroft Trail",
+    "zip": "78729",
+    "city": "Austin",
+    "state": "TX",
+    "location": [
+      -97.7734635,
+      30.4588411
+    ],
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "list_date": "2021-01-31T00:00:00-06:00",
+    "mls_update_date": "2021-01-31T00:00:00-06:00",
+    "price_display": "$450,000",
+    "price": 450000,
+    "square_feet": 2184
+  },
+  {
+    "id": "938feb40-62f1-443e-bca7-f738316f0deb",
+    "mls_id": 499,
+    "mls_listing_id": "5417562",
+    "property_type": "single",
+    "formatted_address": "906 Bret Lane A, Austin, TX 78721",
+    "address": "906 Bret Lane A",
+    "zip": "78721",
+    "city": "Austin",
+    "state": "TX",
+    "location": [
+      -97.688753,
+      30.256038
+    ],
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "list_date": "2021-01-31T00:00:00-06:00",
+    "mls_update_date": "2021-01-31T00:00:00-06:00",
+    "price_display": "$349,900",
+    "price": 349000,
+    "square_feet": 720
+  },
+  {
+    "id": "5babcb94-1c03-4314-9232-0b09b770df72",
+    "mls_id": 499,
+    "mls_listing_id": "6608099",
+    "property_type": "single",
+    "formatted_address": "8700 Keynes Lane, Austin, TX 78747",
+    "address": "8700 Keynes Lane",
+    "zip": "78747",
+    "city": "Austin",
+    "state": "TX",
+    "location": [
+      -97.7471238,
+      30.1522538
+    ],
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "list_date": "2021-01-31T00:00:00-06:00",
+    "mls_update_date": "2021-01-31T00:00:00-06:00",
+    "price_display": "$348,000",
+    "price": 348000,
+    "square_feet": 2505
+  },
+  {
+    "id": "ee24eb77-8cd1-4d64-9688-d6d6bb274488",
+    "mls_id": 499,
+    "mls_listing_id": "1188403",
+    "property_type": "single",
+    "formatted_address": "2011 Abbey Circle, Austin, TX 78727",
+    "address": "2011 Abbey Circle",
+    "zip": "78727",
+    "city": "Austin",
+    "state": "TX",
+    "location": [
+      -97.6929895,
+      30.4192204
+    ],
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "list_date": "2021-01-31T00:00:00-06:00",
+    "mls_update_date": "2021-01-31T00:00:00-06:00",
+    "price_display": "$359,999",
+    "price": 359000,
+    "square_feet": 1605
+  },
+  {
+    "id": "fe082901-910e-4103-8fce-0790c0a6be24",
+    "mls_id": 499,
+    "mls_listing_id": "6995347",
+    "property_type": "multi",
+    "formatted_address": "4712 Blueberry Trail, Austin, TX 78723",
+    "address": "4712 Blueberry Trail",
+    "zip": "78723",
+    "city": "Austin",
+    "state": "TX",
+    "location": [
+      -97.6856532,
+      30.2946801
+    ],
+    "bedrooms": null,
+    "bathrooms": 0,
+    "list_date": "2021-01-31T00:00:00-06:00",
+    "mls_update_date": "2021-01-31T00:00:00-06:00",
+    "price_display": "$392,000",
+    "price": 392000,
+    "square_feet": 2060,
+    "hero": {
+      "small": "https://content-beta.realigned.co/listings/fe082901-910e-4103-8fce-0790c0a6be24/s/1.jpg",
+      "medium": "https://content-beta.realigned.co/listings/fe082901-910e-4103-8fce-0790c0a6be24/m/1.jpg"
+    }
+  },
+  {
+    "id": "9266630f-13cc-40a3-861a-df4572e63ead",
+    "mls_id": 499,
+    "mls_listing_id": "2024278",
+    "property_type": "single",
+    "formatted_address": "1115 W 10th Street 106, Austin, TX 78703",
+    "address": "1115 W 10th Street 106",
+    "zip": "78703",
+    "city": "Austin",
+    "state": "TX",
+    "location": [
+      -97.7548697,
+      30.2753899
+    ],
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "list_date": "2021-01-31T00:00:00-06:00",
+    "mls_update_date": "2021-01-31T00:00:00-06:00",
+    "price_display": "$325,000",
+    "price": 325000,
+    "square_feet": 798
+  }
+]

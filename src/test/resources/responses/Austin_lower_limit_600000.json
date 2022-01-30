@@ -1,0 +1,134 @@
+[
+  {
+    "id": "60be35a0-ac87-4595-9ca9-0fce7dc95ba1",
+    "mls_id": 499,
+    "mls_listing_id": "5165850",
+    "property_type": "single",
+    "formatted_address": "9500 Cedar Crest Drive, Austin, TX 78750",
+    "address": "9500 Cedar Crest Drive",
+    "zip": "78750",
+    "city": "Austin",
+    "state": "TX",
+    "location": [
+      -97.799898,
+      30.4423024
+    ],
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "list_date": "2021-01-31T00:00:00-06:00",
+    "mls_update_date": "2021-01-31T00:00:00-06:00",
+    "price_display": "$799,000",
+    "price": 799000,
+    "square_feet": 2629
+  },
+  {
+    "id": "5c9a9379-d0c1-44fa-91e6-8e0abf77e330",
+    "mls_id": 499,
+    "mls_listing_id": "2316582",
+    "property_type": "single",
+    "formatted_address": "603 Davis Street 1403, Austin, TX 78701",
+    "address": "603 Davis Street 1403",
+    "zip": "78701",
+    "city": "Austin",
+    "state": "TX",
+    "location": [
+      -97.7392828,
+      30.2594894
+    ],
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "list_date": "2021-01-31T00:00:00-06:00",
+    "mls_update_date": "2021-01-31T00:00:00-06:00",
+    "price_display": "$775,000",
+    "price": 775000,
+    "square_feet": 1699
+  },
+  {
+    "id": "110dfd24-86af-4513-9831-93d06b89ae07",
+    "mls_id": 499,
+    "mls_listing_id": "6931372",
+    "property_type": "single",
+    "formatted_address": "119 Lightsey Road 1, Austin, TX 78704",
+    "address": "119 Lightsey Road 1",
+    "zip": "78704",
+    "city": "Austin",
+    "state": "TX",
+    "location": [
+      -97.7613006,
+      30.2298365
+    ],
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "list_date": "2021-01-31T00:00:00-06:00",
+    "mls_update_date": "2021-01-31T00:00:00-06:00",
+    "price_display": "$870,000",
+    "price": 870000,
+    "square_feet": 1761
+  },
+  {
+    "id": "22db6648-c6e5-4b8c-b84c-ac8628337d9b",
+    "mls_id": 499,
+    "mls_listing_id": "2309875",
+    "property_type": "single",
+    "formatted_address": "4926 Springdale Rd Drive 34, Austin, TX 78723",
+    "address": "4926 Springdale Rd Drive 34",
+    "zip": "78723",
+    "city": "Austin",
+    "state": "TX",
+    "location": [
+      -97.6791229,
+      30.2923927
+    ],
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "list_date": "2021-01-31T00:00:00-06:00",
+    "mls_update_date": "2021-01-31T00:00:00-06:00",
+    "price_display": "$645,000",
+    "price": 645000,
+    "square_feet": 2000
+  },
+  {
+    "id": "af6c0f6f-aeab-434e-b975-d779c92271c2",
+    "mls_id": 499,
+    "mls_listing_id": "8694259",
+    "property_type": "single",
+    "formatted_address": "310 Seashell, Austin, TX 78734",
+    "address": "310 Seashell",
+    "zip": "78734",
+    "city": "Austin",
+    "state": "TX",
+    "location": [
+      -97.9897502,
+      30.3680554
+    ],
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "list_date": "2021-01-31T00:00:00-06:00",
+    "mls_update_date": "2021-01-31T00:00:00-06:00",
+    "price_display": "$795,000",
+    "price": 795000,
+    "square_feet": 4009
+  },
+  {
+    "id": "9775dca9-37ba-4cdd-b3f8-507bfea0ab22",
+    "mls_id": 499,
+    "mls_listing_id": "1018022",
+    "property_type": "single",
+    "formatted_address": "6710 Beauford Drive, Austin, TX 78750",
+    "address": "6710 Beauford Drive",
+    "zip": "78750",
+    "city": "Austin",
+    "state": "TX",
+    "location": [
+      -97.7927629,
+      30.3774158
+    ],
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "list_date": "2021-01-31T00:00:00-06:00",
+    "mls_update_date": "2021-01-31T00:00:00-06:00",
+    "price_display": "$1,150,000",
+    "price": 1150000,
+    "square_feet": 3526
+  }
+]
